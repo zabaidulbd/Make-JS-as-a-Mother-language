@@ -1,0 +1,5 @@
+console.log('Hello Js')
+console.log('9' + 9)
+console.log( 9 + 9)
+console.log("Lets make js as a " + 'mother language')
+console.log('I love JS')
