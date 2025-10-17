@@ -23,3 +23,17 @@ if (myAge >= broAge) {
 } else {
   console.log("we are same ");
 }
+
+// else if ...........if we have more than 2 conditions.....
+
+let mamunAge = 20;
+
+let mahtabAge = 20;
+
+if (mamunAge > mahtabAge) {
+  console.log("mamun is elder than mahtab");
+} else if (mamunAge < mahtabAge) {
+  console.log("mahtab is elder than mamun");
+} else {
+  console.log("they both are same");
+}
